@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="Страница-1" id="nuNUfQRfTlRHsn38DS_s">
-    <mxGraphModel dx="1780" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,12 +224,6 @@
               <mxPoint x="863" y="2394" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="T-tcVZZZ_yNR_T7NtiK9-48" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=56;fontStyle=1;verticalAlign=middle;align=center;rotation=-50;" value="INTERNET MARKET" vertex="1">
-          <mxGeometry height="40" width="100" x="819" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="T-tcVZZZ_yNR_T7NtiK9-50" edge="1" parent="1" source="T-tcVZZZ_yNR_T7NtiK9-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="T-tcVZZZ_yNR_T7NtiK9-48">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
